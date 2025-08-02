@@ -1,6 +1,6 @@
 # Balanjaneya Sharma
 
-Front-end developer specializing in performant, scalable web apps with Angular, TypeScript, and modern JavaScript frameworks.
+I'm a frontend developer with a strong focus on building clean, fast, and user-friendly interfaces using Angular and React. I enjoy solving complex problems and
 
 ---
 
